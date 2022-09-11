@@ -47,13 +47,13 @@
 </div>
 
 <div text-align="center">
-  <h4>Trang giỏ hàng</h4>
-  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-gio-hang.png" width="500px" />
+  <h4>Trang đăng nhập</h4>
+  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-dang-nhap.png" width="500px" />
 </div>
 
 <div text-align="center">
-  <h4>Trang đăng nhập</h4>
-  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-dang-nhap.png" width="500px" />
+  <h4>Trang giỏ hàng</h4>
+  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-gio-hang.png" width="500px" />
 </div>
 
 <div text-align="center">
