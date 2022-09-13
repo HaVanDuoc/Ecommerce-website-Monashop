@@ -42,6 +42,16 @@
 </div>
 
 <div text-align="center">
+  <h4>Trang thông tin sản phẩm</h4>
+  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-thong-tin-san-pham.png" width="500px" />
+</div>
+
+<div text-align="center">
+  <h4>Trang giỏ hàng</h4>
+  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-gio-hang.png" width="500px" />
+</div>
+
+<div text-align="center">
   <h4>Trang đăng ký</h4>
   <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-dang-ky.png" width="500px" />
 </div>
@@ -52,11 +62,11 @@
 </div>
 
 <div text-align="center">
-  <h4>Trang giỏ hàng</h4>
-  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-gio-hang.png" width="500px" />
+  <h4>Trang quản trị</h4>
+  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-quan-tri.png" width="500px" />
 </div>
 
 <div text-align="center">
-  <h4>Trang quản trị</h4>
-  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-quan-tri.png" width="500px" />
+  <h4>Trang quản trị - Thêm sản phẩm</h4>
+  <img src="https://github.com/HaVanDuoc/Ecommerce-Website---Monashop/blob/main/preview/page-them-san-pham.png" width="500px" />
 </div>
